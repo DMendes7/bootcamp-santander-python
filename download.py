@@ -5,7 +5,7 @@ import os
 owner = "digitalinnovationone"
 repo = "trilha-python-dio"
 branch = "01_estrutura_de_dados"
-path = "01 - Estrutura de dados/04 - Dicionários"
+path = "01 - Estrutura de dados/05 - Funções"
 
 # Monta a URL da API do GitHub para a pasta
 api_url = f"https://api.github.com/repos/{owner}/{repo}/contents/{path}?ref={branch}"
